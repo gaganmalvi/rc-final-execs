@@ -1,0 +1,1 @@
+Convert the numeber into binary, find 2s complement and return output back in decimal.

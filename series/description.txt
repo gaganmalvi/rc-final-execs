@@ -1,0 +1,1 @@
+Two integers with first value between 1 and 10^4 (Inclusive) and the second value between 0 and 10^5 (Inclusive).

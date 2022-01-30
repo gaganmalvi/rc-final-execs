@@ -1,0 +1,1 @@
+For each testcase print the string with letters at the fibonacci sequence's index as capital letters. Treating the first letter as index 0.

@@ -1,0 +1,2 @@
+First Line: Single Integer T Denoting Number Of Tests Where T=2000 In Every Test-Case.
+For The Next T Lines, Each Line Has A String Of Length 20 Formed Of Lowercase Alphabets.

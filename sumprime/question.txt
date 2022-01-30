@@ -1,0 +1,5 @@
+Find the sum of prime numbers till n(inclusive)
+For ex:
+2-> sum of prime numbers till 2 = 2
+3-> sum of prime numbers till 3 = 2+3=5
+5-> sum of prime numbers till 5 = 2+3+5=10
