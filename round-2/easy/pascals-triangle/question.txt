@@ -1,0 +1,1 @@
+Print n rows of pascal’s triangle

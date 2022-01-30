@@ -1,0 +1,3 @@
+Single String 'S' of length between 1 and 6 (Inclusive).
+Note:
+All Characters of the String are ONLY Upper-Case Characters of the English Lexicon

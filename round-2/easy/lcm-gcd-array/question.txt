@@ -1,0 +1,1 @@
+For each testcase, find the LCM and GCD of the array elements, and print LCM - GCD

@@ -1,0 +1,2 @@
+An Integer (A) is given as the only input.
+0 < A < 10^9
