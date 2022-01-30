@@ -1,0 +1,4 @@
+The first line of the input contains an integer T (between 1 and 20, inclusive), which describes the number of testcases.
+Each testcase consists of one integer ranging from 1 to 100
+The next n lines contain n integers, all which are either 0 or 1.
+There is another constraint for the n by n grid, which you have to figure out :)

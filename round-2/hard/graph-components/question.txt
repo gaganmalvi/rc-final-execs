@@ -1,0 +1,1 @@
+Print the number of connected components of the graphs, given by their adjacency matrices.
