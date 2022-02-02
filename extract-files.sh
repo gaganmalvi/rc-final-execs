@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=
-VENDOR=
+DEVICE=final-executables
+VENDOR=rounds
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
@@ -25,7 +25,7 @@ fi
 source "${HELPER}"
 
 # Default to sanitizing the vendor folder before extraction
-CLEAN_VENDOR=true
+CLEAN_VENDOR=false
 
 KANG=
 SECTION=
