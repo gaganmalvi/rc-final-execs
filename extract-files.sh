@@ -15,7 +15,7 @@ VENDOR=rounds
 MY_DIR="${BASH_SOURCE%/*}"
 if [[ ! -d "${MY_DIR}" ]]; then MY_DIR="${PWD}"; fi
 
-ANDROID_ROOT="${MY_DIR}"
+RC_ROOT="${MY_DIR}"
 
 HELPER="tools/ext-utils.sh"
 if [ ! -f "${HELPER}" ]; then
@@ -49,12 +49,8 @@ while [ "${#}" -gt 0 ]; do
     shift
 done
 
-if [ -z "${SRC}" ]; then
-    SRC="adb"
-fi
-
 # Initialize the helper
-setup_vendor "${DEVICE}" "${VENDOR}" "${ANDROID_ROOT}" false "${CLEAN_VENDOR}"
+setup_vendor "${DEVICE}" "${VENDOR}" "${RC_ROOT}" false "${CLEAN_VENDOR}"
 
 extract "${MY_DIR}/proprietary-files.txt" "${SRC}" "${KANG}" --section "${SECTION}"
 
