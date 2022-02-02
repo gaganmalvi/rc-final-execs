@@ -1,2 +1,0 @@
-First line contains an integer T (between 1 and 1080) which stands for the number of testcases. The next T lines contain the details for each testcase.
-Each line has exactly 3 space seperated numbers each between 1 and 10,000(Inclusive)

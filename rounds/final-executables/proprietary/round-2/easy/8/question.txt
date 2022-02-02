@@ -1,1 +1,0 @@
-For each testcase, capitalize the letters at a prime index

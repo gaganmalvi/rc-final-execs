@@ -1,2 +1,0 @@
-Two space seperated numbers a and b
-where both a and b lie strictly between 0 and 10^15(Inclusive)

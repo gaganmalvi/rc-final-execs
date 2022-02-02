@@ -1,3 +1,0 @@
-Given Two Integers N and M (between 1 and 44, inclusive).
-Starting From The Second Line, A Matrix Of Dimension N x M Is Given.
-The Matrix Is A Character Matrix Only Comprising Of '.' or '#'.

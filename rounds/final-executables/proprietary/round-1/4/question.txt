@@ -1,1 +1,0 @@
-Take an integer as input and find the length of its binary form.

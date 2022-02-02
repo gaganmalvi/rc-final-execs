@@ -1,3 +1,0 @@
-Single Integer 'N' between 3 and 10^6 (Inclusive). (N will always be odd.)
-Followed by 'N' consecutive integers. 
-Each Integer varies between 1 and 10^9

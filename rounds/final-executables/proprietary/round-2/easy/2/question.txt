@@ -1,8 +1,0 @@
-For each testcase, print the pattern
-
-For n = 2,
-    0
-  0 1 0
-0 1 2 1 0
-  0 1 0
-    0

@@ -1,1 +1,0 @@
-Single Integer 'N' between 1 and 50 (Inclusive).

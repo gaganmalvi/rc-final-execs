@@ -1,3 +1,0 @@
-The first line of the input contains an integer T (between 1 and 50, inclusive), which describes the number of testcases.
-Each testcase has one line, which consists of a string whose length ranges from 1 to 100. 
-Each character in the string is a letter in lowercase.

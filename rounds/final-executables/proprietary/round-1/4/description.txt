@@ -1,2 +1,0 @@
-First Line: Single Integer T Denoting Number Of Tests Where T=2000 In Every Test-Case.
-For The Next T Lines, Single integer between 0 and 10^6 (Inclusive).

@@ -1,3 +1,0 @@
-Given, A House Plan In The Form Of A Matrix.
-'.' Represents Floor & '#' Represents Wall.
-Count The Number Of Rooms.

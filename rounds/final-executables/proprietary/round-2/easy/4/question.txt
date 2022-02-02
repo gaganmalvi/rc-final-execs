@@ -1,1 +1,0 @@
-Take the GCD of the number and its reverse.

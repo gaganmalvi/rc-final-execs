@@ -1,1 +1,0 @@
-Take two numbers and find their XOR.

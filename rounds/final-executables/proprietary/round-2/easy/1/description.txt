@@ -1,4 +1,0 @@
-Single Integer 'T' between 1 and 10^5 (Inclusive).
-Followed by 'T' consecutive Queries. 
-Each Query is comprised 1 Integer (A)
-0 < A < 10^9

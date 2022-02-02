@@ -1,1 +1,0 @@
-Take two numbers as input x and y. Print a series of the form x*i+1 where i is between 1 and y (Inclusive).

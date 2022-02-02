@@ -1,2 +1,0 @@
-First line contains an integer T (between 1 and 20) which stands for the number of testcases. The next T lines contain the details for each testcase.
-Each line has one string of length between 1 and 250, and consists only of lowercase letters.

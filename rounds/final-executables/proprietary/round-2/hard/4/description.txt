@@ -1,5 +1,0 @@
-The First Line will have 1 integer, 'N' 
-Where(1 <= N <= 10^5)
-
-Second Line will have 'N' spaced integers (A1, A2, ... AN)
-Where (0 <= Ai <= 10^3) Ai -> Ith Integer.

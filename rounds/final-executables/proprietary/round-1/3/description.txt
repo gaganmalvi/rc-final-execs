@@ -1,5 +1,0 @@
-Single Integer 'T' between 1 and 8x10^4 (Inclusive).
-Followed by 'T' consecutive Queries. 
-Each Query is comprised 2 Integers (A, B)
-0 <= A < 100
-0 <= B < 10

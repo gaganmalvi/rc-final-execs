@@ -1,1 +1,0 @@
-Take input of two numbers and find the number of common factors between them.
