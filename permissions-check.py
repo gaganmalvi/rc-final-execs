@@ -14,12 +14,16 @@ def changePermsToExec(path):
 
 for directories in dirsRound1:
     changePermsToExec(root_directory + "round-1/" + directories + "/executables/" + directories + "-linux.lin")
+    changePermsToExec(root_directory + "round-1/" + directories + "/executables/" + directories + "-mac.mac")
 
 for directories in dirsRound2Easy:
     changePermsToExec(root_directory + "round-2/easy/" + directories + "/executables/" + directories + "-linux.lin")
+    changePermsToExec(root_directory + "round-2/easy/" + directories + "/executables/" + directories + "-mac.mac")
 
 for directories in dirsRound2Hard:
     changePermsToExec(root_directory + "round-2/hard/" + directories + "/executables/" + directories + "-linux.lin")
+    changePermsToExec(root_directory + "round-2/hard/" + directories + "/executables/" + directories + "-mac.mac")
 
 for directories in dirsRound2Medium:
     changePermsToExec(root_directory + "round-2/medium/" + directories + "/executables/" + directories + "-linux.lin")
+    changePermsToExec(root_directory + "round-2/medium/" + directories + "/executables/" + directories + "-mac.mac")
