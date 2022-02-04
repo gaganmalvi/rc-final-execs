@@ -120,3 +120,24 @@ release-windows-latest/release/build/windows/Release/check-set-bits.exe:round-2/
 release-windows-latest/release/build/windows/Release/qwerty-next-char.exe:round-2/medium/5/executables/5-windows.exe|53e3de3ebf0d8cb86a01c64d2ffb882a6e8c8377
 release-windows-latest/release/build/windows/Release/num-prime-factors.exe:round-2/medium/4/executables/4-windows.exe|09f9ea5f6ad51a895b062c454202dcf81f507c2d
 release-windows-latest/release/build/windows/Release/graph-components.exe:round-2/hard/3/executables/3-windows.exe|0b2f0cc4c22b5b58d2a089d3ff4812f6c888aa8f
+
+# Extra - from Linux
+release-ubuntu-latest/release/build/unix/binary-length:round-extra/1/executables/1-linux.lin|95ffe9d2b15fe8283a4349d811b9485642010564
+release-ubuntu-latest/release/build/unix/capitalise-fibonacci:round-extra/2/executables/2-linux.lin|2c49ad9adf8a408ffd8b7befd483d23d44c7efd3
+release-ubuntu-latest/release/build/unix/count-common-factors:round-extra/3/executables/3-linux.lin|f008107c59176cbbd0a5b177b17fb03a8e858769
+release-ubuntu-latest/release/build/unix/sumprime:round-extra/4/executables/4-linux.lin|a6d336db0732a23a1938e43c3a81ddfb9cb242b9
+release-ubuntu-latest/release/build/unix/twos-complement:round-extra/5/executables/5-linux.lin|18a43daf00e63c5422c8a2394eea14f3d481384b
+
+# Extra - from macOS
+release-macos-latest/release/build/unix/binary-length:round-extra/4/executables/1-mac.mac|a41ea3d4b7abac4cdcbd5dd4ca7997f32f972dd5
+release-macos-latest/release/build/unix/capitalise-fibonacci:round-extra/6/executables/2-mac.mac|e3effe2332a9f9462f211a5f34e5505a8e56d4f5
+release-macos-latest/release/build/unix/count-common-factors:round-extra/8/executables/3-mac.mac|49e43a60cb844bd6c976ab4f4bf347fa5a7cfb24
+release-macos-latest/release/build/unix/sumprime:round-extra/17/executables/4-mac.mac|ba5033c03f5e3889fc0a5f37aecb974e39ec0c91
+release-macos-latest/release/build/unix/twos-complement:round-extra/19/executables/5-mac.mac|b4405cde7968301c6153d09f131630fa89fb2347
+
+# Extra - from Windows
+release-windows-latest/release/build/windows/Release/binary-length.exe:round-extra/1/executables/1-windows.exe|792a25f2ecdd822e0ffc299c55db1c6d37ee9e10
+release-windows-latest/release/build/windows/Release/capitalise-fibonacci.exe:round-extra/2/2-windows.exe|d3907a85c970c4670ccaa754f5eee6919150a14f
+release-windows-latest/release/build/windows/Release/count-common-factors.exe:round-extra/3/3-windows.exe|9a308ee6830fde3d3099c0a98fed60c6ad76167e
+release-windows-latest/release/build/windows/Release/sumprime.exe:round-extra/4/4-windows.exe|d91f2c5a82e368eab2283017fc8e8cbbc87b41a2
+release-windows-latest/release/build/windows/Release/twos-complement.exe:round-extra/5/5-windows.exe|9348bd1880ad621ff8be316ea1ba57c7721220f7
