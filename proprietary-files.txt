@@ -36,21 +36,21 @@ release-macos-latest/release/build/unix/troll-question:round-1/14/executables/14
 release-macos-latest/release/build/unix/xor-duplicates:round-1/15/executables/15-mac.mac|61124e3cea47b5031800321280f7cb1d3140487b
 
 # Round-1 - from Windows
-release-windows-latest/release/build/windows/Release/anagram.exe:round-1/1/executables/1-windows.exe|a24b075d18ef8bbecb5401aea4be15e30a6da71d
-release-windows-latest/release/build/windows/Release/ap-gp-pattern.exe:round-1/2/executables/2-windows.exe|6966e87d711a28357c5734be9e10c8589668d5b2
-release-windows-latest/release/build/windows/Release/bin-expo.exe:round-1/3/executables/3-windows.exe|cb6609b0b36e4c907cd803bac1ec1a78a2723c9a
-release-windows-latest/release/build/windows/Release/bitwise-and.exe:round-1/4/executables/4-windows.exe|e303d6d42cbdbd40e013fbb60dfa933dc2cdcf9d
-release-windows-latest/release/build/windows/Release/combinations.exe:round-1/5/executables/5-windows.exe|8bba856ddde6810bb81d6f23b0d5770e4d6c7b99
-release-windows-latest/release/build/windows/Release/find-xor.exe:round-1/6/executables/6-windows.exe|62c089fc874afbafc49ef893892fa37d9590718c
-release-windows-latest/release/build/windows/Release/or-all-digits.exe:round-1/7/executables/7-windows.exe|91ebe0b2b792a52f6cf0437318faae2635bbaf66
-release-windows-latest/release/build/windows/Release/palindrome.exe:round-1/8/executables/8-windows.exe|a151685ea55ddeaaa474161ead79667e7f2f8df2
-release-windows-latest/release/build/windows/Release/permutations.exe:round-1/9/executables/9-windows.exe|4901a0e20719a0492f79c6728302da8a9f2ec016
-release-windows-latest/release/build/windows/Release/series.exe:round-1/10/executables/10-windows.exe|07154b0cad4006c36f3de7cd9a1221ff9c48e7ce
-release-windows-latest/release/build/windows/Release/spiral-form-matrix.exe:round-1/11/executables/11-windows.exe|f34680119b42fa678928a3c4a54fa4aca2b85722
-release-windows-latest/release/build/windows/Release/spiral-number-pattern.exe:round-1/12/executables/12-windows.exe|08d3e93044e417ee5edfeb0eb98ff08d594fd6bb
-release-windows-latest/release/build/windows/Release/sum-of-n.exe:round-1/13/executables/13-windows.exe|0b2326c80889297bfb12bd847e251b53f0359494
-release-windows-latest/release/build/windows/Release/troll-question.exe:round-1/14/executables/14-windows.exe|31e2ec06d39c3807bb47904930e91f2606cef3ec
-release-windows-latest/release/build/windows/Release/xor-duplicates.exe:round-1/15/executables/15-windows.exe|09200961f0a4b521d69299f62fad884b311ebd03
+release-windows-latest/release/build/windows/Release/anagram.exe:round-1/1/executables/1-windows.exe|5c381f66021aa4eb3c507e67138bcda4ee6461dd
+release-windows-latest/release/build/windows/Release/ap-gp-pattern.exe:round-1/2/executables/2-windows.exe|0b99af853ab31dac481eae85e605c1d3340c6b39
+release-windows-latest/release/build/windows/Release/bin-expo.exe:round-1/3/executables/3-windows.exe|851a6a624a22faf6cf87de8c2be9d58b9634d9b7
+release-windows-latest/release/build/windows/Release/bitwise-and.exe:round-1/4/executables/4-windows.exe|9f8ab6b799684bd0dc01d5751766b194f76b0bf1
+release-windows-latest/release/build/windows/Release/combinations.exe:round-1/5/executables/5-windows.exe|eb158e0b9890f7f13500a67133fda9778ec3ae3d
+release-windows-latest/release/build/windows/Release/find-xor.exe:round-1/6/executables/6-windows.exe|313684406f526b6b6409eae8d1ce8d8228b32870
+release-windows-latest/release/build/windows/Release/or-all-digits.exe:round-1/7/executables/7-windows.exe|eefc4575073d07322b410047548f59380a99231c
+release-windows-latest/release/build/windows/Release/palindrome.exe:round-1/8/executables/8-windows.exe|0497f22b0b77f34bb0ade5a586910d39d022f33b
+release-windows-latest/release/build/windows/Release/permutations.exe:round-1/9/executables/9-windows.exe|b9dbc61794c8e5a859d2e80673b11ec2e3224639
+release-windows-latest/release/build/windows/Release/series.exe:round-1/10/executables/10-windows.exe|ebfc208db46c55ba5071c60b4f0afc04dec6b53d
+release-windows-latest/release/build/windows/Release/spiral-form-matrix.exe:round-1/11/executables/11-windows.exe|32a389f07b08c36ad39e1cf2ec4ea3fd7e608624
+release-windows-latest/release/build/windows/Release/spiral-number-pattern.exe:round-1/12/executables/12-windows.exe|efe3a41573192cbe36cfb93fa30a914a41d126ca
+release-windows-latest/release/build/windows/Release/sum-of-n.exe:round-1/13/executables/13-windows.exe|d10ea3423d03fc24e91e43a26ece362c4e1ee6cc
+release-windows-latest/release/build/windows/Release/troll-question.exe:round-1/14/executables/14-windows.exe|fadb4262832b72b1b346b4dac60395955aaa579c
+release-windows-latest/release/build/windows/Release/xor-duplicates.exe:round-1/15/executables/15-windows.exe|eae7cac4c9e4441703daf5b0f053616d70979c96
 
 # Round-2 - from Linux
 release-ubuntu-latest/release/build/unix/sliding-min:round-2/medium/6/executables/6-linux.lin|c94dad20dd165da6d95d7070811a870dbf8ef7aa
@@ -71,7 +71,7 @@ release-ubuntu-latest/release/build/unix/string-mirror-array:round-2/easy/9/exec
 release-ubuntu-latest/release/build/unix/sub-or-add-power-of-two:round-2/easy/10/executables/10-linux.lin|35c43a05957f8b7358332645a1c8dd4cc1520d28
 release-ubuntu-latest/release/build/unix/triangle-check:round-2/hard/5/executables/5-linux.lin|2786fee9e7092615c3ab8ed41fd4e32761a5efbe
 release-ubuntu-latest/release/build/unix/check-set-bits:round-2/easy/1/executables/1-linux.lin|3f0a77b5a6d61fbd8e375f3c90c8330e5090b1e9
-release-ubuntu-latest/release/build/unix/qwerty-next-char:round-2/medium/5/executables/5-linux.lin|7ffb40e8f265ca51a344e4d280a282bfabd8454e
+release-ubuntu-latest/release/build/unix/qwerty-next-char:round-2/medium/5/executables/5-linux.lin|b3a1c87bd077085aeb0d9b060c5373cd40a19637
 release-ubuntu-latest/release/build/unix/num-prime-factors:round-2/medium/4/executables/4-linux.lin|36578703e4b0b6f2d642b84ebb35a3a1f9c2087e
 release-ubuntu-latest/release/build/unix/graph-components:round-2/hard/3/executables/3-linux.lin|e334b3a358205ff2a02d1d886af4ff27ee1e0196
 
@@ -94,32 +94,32 @@ release-macos-latest/release/build/unix/string-mirror-array:round-2/easy/9/execu
 release-macos-latest/release/build/unix/sub-or-add-power-of-two:round-2/easy/10/executables/10-mac.mac|450552af5a40cc8374d7c20b9dff1b4e54350ea9
 release-macos-latest/release/build/unix/triangle-check:round-2/hard/5/executables/5-mac.mac|04442d4a32f32e687f5ac5eadf5d39447b11abd0
 release-macos-latest/release/build/unix/check-set-bits:round-2/easy/1/executables/1-mac.mac|6681a3a4dcc9246441cd21b5e09bb6193dac607b
-release-macos-latest/release/build/unix/qwerty-next-char:round-2/medium/5/executables/5-mac.mac|8aaed0d18d97a062ee2d3a8168bcd79aac9ed8fd
+release-macos-latest/release/build/unix/qwerty-next-char:round-2/medium/5/executables/5-mac.mac|0c6114380d30ce595c96b3a760b214c54e90f638
 release-macos-latest/release/build/unix/num-prime-factors:round-2/medium/4/executables/4-mac.mac|8583ca73cde559475867f035c478d25f9a9e66d1
 release-macos-latest/release/build/unix/graph-components:round-2/hard/3/executables/3-mac.mac|f903bc3dd337451337249204e5ee69c2f2a9fcb5
 
 # Round-2 - from Windows
-release-windows-latest/release/build/windows/Release/sliding-min.exe:round-2/medium/6/executables/6-windows.exe|7daf3c8a0949ecbecdadb49b8ad44d3f535666a7
-release-windows-latest/release/build/windows/Release/pascals-triangle.exe:round-2/easy/7/executables/7-windows.exe|2c0ce9a769e220003f83af0afa0e37b9a4aa9afe
-release-windows-latest/release/build/windows/Release/count-rooms.exe:round-2/hard/1/executables/1-windows.exe|2fb633bed3a9467a005fa40c7b042488ed2b56e0
-release-windows-latest/release/build/windows/Release/lcs-length.exe:round-2/medium/3/executables/3-windows.exe|42a172504c12e52831c582363c7bc245b35118f2
-release-windows-latest/release/build/windows/Release/modulo-nums.exe:round-2/easy/6/executables/6-windows.exe|0fba1b41e1804d93ee19747e443acc6f3ff8d140
-release-windows-latest/release/build/windows/Release/diamond-pattern.exe:round-2/easy/2/executables/2-windows.exe|c6c67bccb398d7e55c59f630986512e350f7121a
-release-windows-latest/release/build/windows/Release/gcd-rev.exe:round-2/easy/4/executables/4-windows.exe|a0c1793745202517ca5b12104c365ab5d37a9806
-release-windows-latest/release/build/windows/Release/edit-distance.exe:round-2/medium/2/executables/2-windows.exe|1dd0ddc87cca94e7e7d8a1be6c3cae47e2a42dde
-release-windows-latest/release/build/windows/Release/prime-index-uppercase.exe:round-2/easy/8/executables/8-windows.exe|b05fd8796d42dd7fba358676e7b4cb6b1cddbea9
-release-windows-latest/release/build/windows/Release/lcm-gcd-array.exe:round-2/easy/5/executables/5-windows.exe|5bb8bad15bc18e93df5ba953d65c5e117261f3ee
-release-windows-latest/release/build/windows/Release/dictionary-order.exe:round-2/easy/3/executables/3-windows.exe|cd0dad31befc0b20efe9cac76298247a64ff1f3d
-release-windows-latest/release/build/windows/Release/add-sub-pow2.exe:round-2/medium/1/executables/1-windows.exe|115bbe4de76ba78f2118296654c6014e41f6f456
-release-windows-latest/release/build/windows/Release/trap-water.exe:round-2/hard/4/executables/4-windows.exe|0e76f27b00ceb93da7a9258c47b62b02a0c8a9c0
-release-windows-latest/release/build/windows/Release/fact-length.exe:round-2/hard/2/executables/2-windows.exe|c717e2c6f425601dbd18c219a004d9eaff32539a
-release-windows-latest/release/build/windows/Release/string-mirror-array.exe:round-2/easy/9/executables/9-windows.exe|f5ffc568ca8c9a44ccfa278aa8cf7b1be6aaef91
-release-windows-latest/release/build/windows/Release/sub-or-add-power-of-two.exe:round-2/easy/10/executables/10-windows.exe|e8f90e0e9de8cce779f76d35caec7e05158c3b34
-release-windows-latest/release/build/windows/Release/triangle-check.exe:round-2/hard/5/executables/5-windows.exe|5488a4047b72806ce36f624fdd1ffa89b1bb2e32
-release-windows-latest/release/build/windows/Release/check-set-bits.exe:round-2/easy/1/executables/1-windows.exe|86205458b8435deef95ea4c7c218f6b93d6e2990
-release-windows-latest/release/build/windows/Release/qwerty-next-char.exe:round-2/medium/5/executables/5-windows.exe|53e3de3ebf0d8cb86a01c64d2ffb882a6e8c8377
-release-windows-latest/release/build/windows/Release/num-prime-factors.exe:round-2/medium/4/executables/4-windows.exe|09f9ea5f6ad51a895b062c454202dcf81f507c2d
-release-windows-latest/release/build/windows/Release/graph-components.exe:round-2/hard/3/executables/3-windows.exe|0b2f0cc4c22b5b58d2a089d3ff4812f6c888aa8f
+release-windows-latest/release/build/windows/Release/sliding-min.exe:round-2/medium/6/executables/6-windows.exe|2881dcd70bf4981d500dbd41e98855682b5634d3
+release-windows-latest/release/build/windows/Release/pascals-triangle.exe:round-2/easy/7/executables/7-windows.exe|dd8af8c2331d7949ba0274528453125263eea90a
+release-windows-latest/release/build/windows/Release/count-rooms.exe:round-2/hard/1/executables/1-windows.exe|6b6a332e9e2c29f6e6ed9bb1623a3c69d298bee8
+release-windows-latest/release/build/windows/Release/lcs-length.exe:round-2/medium/3/executables/3-windows.exe|60dc2c4fe83736b4b58e61d610ee554a98713d0f
+release-windows-latest/release/build/windows/Release/modulo-nums.exe:round-2/easy/6/executables/6-windows.exe|75db3941a04625bb98070eae44a885d21b5770e4
+release-windows-latest/release/build/windows/Release/diamond-pattern.exe:round-2/easy/2/executables/2-windows.exe|67175f5209496ee27a0cdc207b1a067e2dfcdc6f
+release-windows-latest/release/build/windows/Release/gcd-rev.exe:round-2/easy/4/executables/4-windows.exe|9cbb370aabdfcf1e519d5f9740a18abda47a4fdf
+release-windows-latest/release/build/windows/Release/edit-distance.exe:round-2/medium/2/executables/2-windows.exe|2c101ec160bde01104cb862d92bcc81c996bca18
+release-windows-latest/release/build/windows/Release/prime-index-uppercase.exe:round-2/easy/8/executables/8-windows.exe|8adde3fb67993c63faac5a8ceb20b9a4c305657d
+release-windows-latest/release/build/windows/Release/lcm-gcd-array.exe:round-2/easy/5/executables/5-windows.exe|2346436679deda0d5ad37fa52a4c923f8e020c44
+release-windows-latest/release/build/windows/Release/dictionary-order.exe:round-2/easy/3/executables/3-windows.exe|de5690b510e9c2d2ecd20fe3bb75b218a2dd7993
+release-windows-latest/release/build/windows/Release/add-sub-pow2.exe:round-2/medium/1/executables/1-windows.exe|e59a1c3e0add63be9acc800f4e360ee06a8dce54
+release-windows-latest/release/build/windows/Release/trap-water.exe:round-2/hard/4/executables/4-windows.exe|1d971aa8fc3c8ea8ca66b31a6767340bdc05c9c9
+release-windows-latest/release/build/windows/Release/fact-length.exe:round-2/hard/2/executables/2-windows.exe|f8d39dbb5da5f25e5134b44a46e4daa142b72f7e
+release-windows-latest/release/build/windows/Release/string-mirror-array.exe:round-2/easy/9/executables/9-windows.exe|5b11fdc21541aa9d3c6ce2f52f140c3963993842
+release-windows-latest/release/build/windows/Release/sub-or-add-power-of-two.exe:round-2/easy/10/executables/10-windows.exe|51a2819ee27d402d2d5a1fab4742cb84585a0285
+release-windows-latest/release/build/windows/Release/triangle-check.exe:round-2/hard/5/executables/5-windows.exe|db638e6698a55e33a04706572b425296ff3aa153
+release-windows-latest/release/build/windows/Release/check-set-bits.exe:round-2/easy/1/executables/1-windows.exe|0c107f7450e4bc4f478faa29114a97d54f45e2c2
+release-windows-latest/release/build/windows/Release/qwerty-next-char.exe:round-2/medium/5/executables/5-windows.exe|cc39afcb02ff80a1a24d81343c1056d5a6b4d8ee
+release-windows-latest/release/build/windows/Release/num-prime-factors.exe:round-2/medium/4/executables/4-windows.exe|2597e27a2d052467c05478b08bb416b015ab3cdc
+release-windows-latest/release/build/windows/Release/graph-components.exe:round-2/hard/3/executables/3-windows.exe|22baf5f27637fbd9d497b6ac8b2679293a6d59eb
 
 # Extra - from Linux
 release-ubuntu-latest/release/build/unix/binary-length:round-extra/1/executables/1-linux.lin|95ffe9d2b15fe8283a4349d811b9485642010564
@@ -136,8 +136,8 @@ release-macos-latest/release/build/unix/sumprime:round-extra/17/executables/4-ma
 release-macos-latest/release/build/unix/twos-complement:round-extra/19/executables/5-mac.mac|b4405cde7968301c6153d09f131630fa89fb2347
 
 # Extra - from Windows
-release-windows-latest/release/build/windows/Release/binary-length.exe:round-extra/1/executables/1-windows.exe|792a25f2ecdd822e0ffc299c55db1c6d37ee9e10
-release-windows-latest/release/build/windows/Release/capitalise-fibonacci.exe:round-extra/2/2-windows.exe|d3907a85c970c4670ccaa754f5eee6919150a14f
-release-windows-latest/release/build/windows/Release/count-common-factors.exe:round-extra/3/3-windows.exe|9a308ee6830fde3d3099c0a98fed60c6ad76167e
-release-windows-latest/release/build/windows/Release/sumprime.exe:round-extra/4/4-windows.exe|d91f2c5a82e368eab2283017fc8e8cbbc87b41a2
-release-windows-latest/release/build/windows/Release/twos-complement.exe:round-extra/5/5-windows.exe|9348bd1880ad621ff8be316ea1ba57c7721220f7
+release-windows-latest/release/build/windows/Release/binary-length.exe:round-extra/1/executables/1-windows.exe|d9e7883d85c7694ea9c7cca06d20a3887920c624
+release-windows-latest/release/build/windows/Release/capitalise-fibonacci.exe:round-extra/2/2-windows.exe|f713e2f67bca345d661f38ce3eec2370407db42f
+release-windows-latest/release/build/windows/Release/count-common-factors.exe:round-extra/3/3-windows.exe|1e1521160a0f688a6fd30f81210ae8f3cbb32680
+release-windows-latest/release/build/windows/Release/sumprime.exe:round-extra/4/4-windows.exe|42ca567414d533160b1123f8b43c076831fafcb4
+release-windows-latest/release/build/windows/Release/twos-complement.exe:round-extra/5/5-windows.exe|cf83a9cf3563f204baf00c8db5338693b510f8be
