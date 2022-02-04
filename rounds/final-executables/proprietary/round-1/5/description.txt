@@ -1,0 +1,2 @@
+First line contains an integer T (between 1 and 100) which stands for the number of testcases. The next T lines contain the details for each testcase.
+Each line has 2 integers a and b between 0 and 20 such that b < a

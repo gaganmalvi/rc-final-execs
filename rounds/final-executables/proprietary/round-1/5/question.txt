@@ -1,0 +1,1 @@
+For each testcase, take two numbers a and b, and find aCb which is given by, a!/ ( (a-b)! * b! )

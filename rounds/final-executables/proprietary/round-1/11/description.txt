@@ -1,0 +1,3 @@
+First line contains an integer T (between 1 and 10) which stands for the number of testcases.
+The first line of each testcase consists of integer n, m (between 1 and 25).
+The next n lines contain m integers each. Each integer lies between 1 and 1000.

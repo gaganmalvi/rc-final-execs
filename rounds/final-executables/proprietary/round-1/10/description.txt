@@ -1,0 +1,3 @@
+First line contains an integer T (between 1 and 100) which stands for the number of testcases.The next T lines contain the details
+for each testcase where each test case includes:
+Two integers with first value between 1 and 10^4 (Inclusive) and the second value between 0 and 10^5 (Inclusive).
