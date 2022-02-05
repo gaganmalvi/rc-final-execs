@@ -2,15 +2,15 @@
 # and windows directories to extract executables.
 
 # Round-1 - from Linux
-release-ubuntu-latest/release/build/unix/anagram:1-linux.lin|b739ee70531d0a67a675e6ce514d9015defca62e
-release-ubuntu-latest/release/build/unix/ap-gp-pattern:2-linux.lin|6253d515016cd26b797b5913064fed3e71d69836
-release-ubuntu-latest/release/build/unix/bin-expo:3-linux.lin|735e992e2dcb19f8ca8a6fd263314d64c97bbd53
-release-ubuntu-latest/release/build/unix/bitwise-and:4-linux.lin|0f537f1b44ba59c47087d638a363e3a951fa0309
-release-ubuntu-latest/release/build/unix/combinations:5-linux.lin|69147216e2f566d9ecafcb73f9a2efc4ac7ef648
-release-ubuntu-latest/release/build/unix/find-xor:6-linux.lin|64916062f7b742404e32baa07e7a3c89d8ce6516
-release-ubuntu-latest/release/build/unix/or-all-digits:7-linux.lin|284476c8a0f7a00a0be75e0b1ee98ad86ffee24c
-release-ubuntu-latest/release/build/unix/palindrome:8-linux.lin|bef5c640f4dfb8a7558f3dc69cb06c9d97c0eab7
-release-ubuntu-latest/release/build/unix/permutations:9-linux.lin|b7984bcb989a9197073702e7eb043e7695d92a59
+release-ubuntu-latest/release/build/unix/anagram:01-linux.lin|b739ee70531d0a67a675e6ce514d9015defca62e
+release-ubuntu-latest/release/build/unix/ap-gp-pattern:02-linux.lin|6253d515016cd26b797b5913064fed3e71d69836
+release-ubuntu-latest/release/build/unix/bin-expo:03-linux.lin|735e992e2dcb19f8ca8a6fd263314d64c97bbd53
+release-ubuntu-latest/release/build/unix/bitwise-and:04-linux.lin|0f537f1b44ba59c47087d638a363e3a951fa0309
+release-ubuntu-latest/release/build/unix/combinations:05-linux.lin|69147216e2f566d9ecafcb73f9a2efc4ac7ef648
+release-ubuntu-latest/release/build/unix/find-xor:06-linux.lin|64916062f7b742404e32baa07e7a3c89d8ce6516
+release-ubuntu-latest/release/build/unix/or-all-digits:07-linux.lin|284476c8a0f7a00a0be75e0b1ee98ad86ffee24c
+release-ubuntu-latest/release/build/unix/palindrome:08-linux.lin|bef5c640f4dfb8a7558f3dc69cb06c9d97c0eab7
+release-ubuntu-latest/release/build/unix/permutations:09-linux.lin|b7984bcb989a9197073702e7eb043e7695d92a59
 release-ubuntu-latest/release/build/unix/series:10-linux.lin|6496690119fb08f68394916e9d8ace36982a931d
 release-ubuntu-latest/release/build/unix/spiral-form-matrix:11-linux.lin|03331081d1cd99a5b479483b9e16f969c8ff650a
 release-ubuntu-latest/release/build/unix/spiral-number-pattern:12-linux.lin|394c9b7aa842f81bdffb6fa3ae8ae5e84246b069
