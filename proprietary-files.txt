@@ -129,18 +129,18 @@ release-ubuntu-latest/release/build/unix/sumprime:round-extra/04/executables/04-
 release-ubuntu-latest/release/build/unix/twos-complement:round-extra/05/executables/05-linux.lin|18a43daf00e63c5422c8a2394eea14f3d481384b
 
 # Extra - from macOS
-release-macos-latest/release/build/unix/binary-length:round-extra/04/executables/01-mac.mac|a41ea3d4b7abac4cdcbd5dd4ca7997f32f972dd5
-release-macos-latest/release/build/unix/capitalise-fibonacci:round-extra/06/executables/02-mac.mac|e3effe2332a9f9462f211a5f34e5505a8e56d4f5
-release-macos-latest/release/build/unix/count-common-factors:round-extra/08/executables/03-mac.mac|49e43a60cb844bd6c976ab4f4bf347fa5a7cfb24
-release-macos-latest/release/build/unix/sumprime:round-extra/17/executables/04-mac.mac|ba5033c03f5e3889fc0a5f37aecb974e39ec0c91
-release-macos-latest/release/build/unix/twos-complement:round-extra/19/executables/05-mac.mac|b4405cde7968301c6153d09f131630fa89fb2347
+release-macos-latest/release/build/unix/binary-length:round-extra/01/executables/01-mac.mac|a41ea3d4b7abac4cdcbd5dd4ca7997f32f972dd5
+release-macos-latest/release/build/unix/capitalise-fibonacci:round-extra/02/executables/02-mac.mac|e3effe2332a9f9462f211a5f34e5505a8e56d4f5
+release-macos-latest/release/build/unix/count-common-factors:round-extra/03/executables/03-mac.mac|49e43a60cb844bd6c976ab4f4bf347fa5a7cfb24
+release-macos-latest/release/build/unix/sumprime:round-extra/04/executables/04-mac.mac|ba5033c03f5e3889fc0a5f37aecb974e39ec0c91
+release-macos-latest/release/build/unix/twos-complement:round-extra/05/executables/05-mac.mac|b4405cde7968301c6153d09f131630fa89fb2347
 
 # Extra - from Windows
 release-windows-latest/release/build/windows/Release/binary-length.exe:round-extra/01/executables/01-windows.exe|d9e7883d85c7694ea9c7cca06d20a3887920c624
-release-windows-latest/release/build/windows/Release/capitalise-fibonacci.exe:round-extra/02/02-windows.exe|f713e2f67bca345d661f38ce3eec2370407db42f
-release-windows-latest/release/build/windows/Release/count-common-factors.exe:round-extra/03/03-windows.exe|1e1521160a0f688a6fd30f81210ae8f3cbb32680
-release-windows-latest/release/build/windows/Release/sumprime.exe:round-extra/04/04-windows.exe|42ca567414d533160b1123f8b43c076831fafcb4
-release-windows-latest/release/build/windows/Release/twos-complement.exe:round-extra/05/05-windows.exe|cf83a9cf3563f204baf00c8db5338693b510f8be
+release-windows-latest/release/build/windows/Release/capitalise-fibonacci.exe:round-extra/02/executables/02-windows.exe|f713e2f67bca345d661f38ce3eec2370407db42f
+release-windows-latest/release/build/windows/Release/count-common-factors.exe:round-extra/03/executables/03-windows.exe|1e1521160a0f688a6fd30f81210ae8f3cbb32680
+release-windows-latest/release/build/windows/Release/sumprime.exe:round-extra/04/executables/04-windows.exe|42ca567414d533160b1123f8b43c076831fafcb4
+release-windows-latest/release/build/windows/Release/twos-complement.exe:round-extra/05/executables/05-windows.exe|cf83a9cf3563f204baf00c8db5338693b510f8be
 
 # Round-1 - from textual
 rc/release/round-1/anagram/description.txt:round-1/01/description.txt|c3e4a721a71c355f487b85685682074fcc3078f0
