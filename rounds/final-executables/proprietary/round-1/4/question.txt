@@ -1,1 +1,0 @@
-Find biwise and of 3 numbers if bitwise "AND" is 0 print "YES" else print "NO"

@@ -1,3 +1,0 @@
-If N > 42069 Print "Snoop Dogg"
-Else If N < 42069 Print "Martha Stewart"
-Else Print "I am being Trolled"

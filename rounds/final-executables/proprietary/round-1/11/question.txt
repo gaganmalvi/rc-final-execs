@@ -1,1 +1,0 @@
-For each testcase, there is one matrix, whose spiral form should be printed.

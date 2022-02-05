@@ -1,4 +1,0 @@
-The first line contains an integer T (1 <= T <= 100), which is the number of testcases.
-Each testcase contains a single Integer 'N' between 3 and 100 (Inclusive). (N will always be odd.)
-Followed by 'N' consecutive integers. 
-Each Integer varies between 1 and 10^4

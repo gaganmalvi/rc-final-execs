@@ -1,3 +1,0 @@
-First line contains an integer T (between 1 and 150) which stands for the number of testcases. The next T lines contain the details
-for each testcase.
-Each line has 5 integers a b c d e, where a,b,c,d,e are between 1 and 25

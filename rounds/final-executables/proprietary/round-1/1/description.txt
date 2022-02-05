@@ -1,3 +1,0 @@
-First line contains an integer T (between 1 and 100) which stands for the number of testcases. The next T lines contain the details
-for each testcase.
-Each line contains two space seperated non-null strings with string length between 1 and 100 (Inclusive).

@@ -1,2 +1,0 @@
-The first line contains an integer T (1 <= T <= 100), which stands for the number of testcases.
-Each testcase contains a string of length ranging from 1 to 100.
