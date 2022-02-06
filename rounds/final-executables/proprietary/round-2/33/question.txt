@@ -1,0 +1,1 @@
+Find the smallest Number whose factorial will have length equal to A

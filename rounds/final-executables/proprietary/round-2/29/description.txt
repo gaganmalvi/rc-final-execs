@@ -1,0 +1,2 @@
+The first line of the input contains an integer T (between 1 and 50, inclusive), which describes the number of testcases.
+Each testcase consists of one integer ranging from 1 to 10^7.

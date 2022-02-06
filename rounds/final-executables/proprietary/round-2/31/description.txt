@@ -1,0 +1,5 @@
+The First Line will have 2 integers, 'N' & 'K' 
+Where(1 <= N <= 10^5) & (1 <= K <= N).
+
+Second Line will have 'N' spaced integers (A1, A2, ... AN)
+Where (1 <= Ai <= 10^9) Ai -> Ith Integer.

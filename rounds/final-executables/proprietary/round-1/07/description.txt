@@ -1,3 +1,0 @@
-Single Integer 'T' between 1 and 100 (Inclusive).
-Followed by 'T' consecutive Queries. 
-Each Query is an Integer that varies between 0 and 10^9

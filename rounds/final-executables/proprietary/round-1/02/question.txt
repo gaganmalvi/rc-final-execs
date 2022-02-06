@@ -1,9 +1,0 @@
-For each testcase, there are 5 integers - a b c d N.
-Give the first N terms of the series, (Odd terms = AP, Even terms = GP)
-a  b  a+c  b*d  a+2c  b*d*d  a+3c  b*d*d*d  a+4c ... 
-
-For example, 
-Input
-2 3 3 4 7
-Output
-2 3 5 12 8 48 11
